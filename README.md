@@ -33,6 +33,27 @@ beim "Kleinen Nils" den ich bereits erwägte einzubauen. Da kann man halt nicht 
 die müsste dann zur Frage des Callcenter-Menschen passen. Andererseits... So eine Frage nach "Verstehe ich nicht"
 und "Was heißt denn das?" wäre ja schon durchaus einen Versuch wert... :-)
 
+## Wichtiger Hinweis zur Aufnahme der Anrufe
+Zur Sicherung der Servicequalität (man muss ja prüfen, dass die Gewitteroma funktioniert!) werden die Gespräche aufgezeichnet.
+Nach § 201 Abs. 1 StGB ist es nicht erlaubt, unbefugt Anrufe aufzuzeichnen - unter Androhung drakonischer Strafen.
+Deshalb weise ich die Anrufer selbstverständlich sogar noch vor der Annahme des Anrufs darauf hin, dass ihr Gespräch
+aufgezeichnet und (sofern es lustig ist) im Internet veröffentlicht wird.
+Wer das nicht will, hat die Gelegenheit aufzulegen...
+Ich gebe zu, dass ich diesen Hinweis noch VOR der Gesprächsannahme über "Early Media" einspiele.
+Early Media ist Audioübertragung, bevor der Anruf angenommen wird. So Ansagen wie "Ihr gewünschter Gesprächspartner
+ist zur Zeit nicht erreichbar" werden über diesen Kanal übertragen. Und unser Hinweis auf die Aufnahme ebenfalls.
+Das kann jeder mit einem handelsüblichen Telefon nachprüfen!
+Ob dieses Early-Media den Anrufroboter der Callcenter irgendwie interessiert muss nach Aussage meines Anwalts (nein, wirklich!)
+mich übrigens nicht interessieren. Ich nutze ein Dienstmerkmal des Telefonnetzes welches zum Standardumfang gehört
+und von dem ich ausgehen darf, dass es jeder unterstützt. Falls der Anrufroboter diese Information verschluckt,
+ist das nicht mein Problem.
+
+ABER: Nicht alle Telefonanschlüsse verhalten sich gleich - Privatkunden-ISDN-Anschlüsse (sofern es sie noch gibt) lassen
+in der Regel kein Early-Media zu, die VoIP-Anschlüsse der Telekom haben damit kein Problem.
+In jedem Fall müsst ihr vorher einmal mit einem normalen Telefon (Handy...) testen, ob ihr als Anrufer diesen Hinweis
+tatsächlich hört. Wenn nicht, müsst ihr den entweder nach Gesprächsannahme noch schnell vor der Gewitteroma einspielen
+oder ihr verzichtet auf die Aufnahme.
+
 
 ## Links
 [1] https://wiki.asterisk.org/wiki/display/AST/Asterisk+11+Application_WaitForNoise
